@@ -2,8 +2,6 @@
 
 This mobile application was created using Android Studio and it's a collaboration between me and my good friend and collague Michalis Anagnostopoulos.
 
-**Featured files:** Android Studio Project , .csv File , server.js file.
-
 **The application's functionalities are as follows:**
 
 A. Home screen with the ability to upload a file from the local disk or via URL.
