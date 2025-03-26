@@ -23,7 +23,7 @@ class SelectCriteria : AppCompatActivity() {
 
         // Initialize Retrofit
         val retrofit = Retrofit.Builder()
-            .baseUrl("http://46.246.220.117:5000/")
+            .baseUrl("http://10.0.2.2:5000/")
             .addConverterFactory(GsonConverterFactory.create())
             .build()
         apiService = retrofit.create(ApiService::class.java)
