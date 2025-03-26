@@ -31,7 +31,7 @@ class ReadfromURL : AppCompatActivity() {
 
         // arxikopoihsh Retrofit gia API calls
         val retrofit = Retrofit.Builder()
-            .baseUrl("http://46.246.220.117:5000/") // Βάση URL του server (προσαρμογή αν χρειάζεται)
+            .baseUrl("http://10.0.2.2:5000/") //base url
             .addConverterFactory(GsonConverterFactory.create())
             .build()
         apiService = retrofit.create(ApiService::class.java)
