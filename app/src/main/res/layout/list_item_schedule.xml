@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:background="?android:attr/selectableItemBackground"
+    android:focusable="true"
+    android:clickable="true">
+
+    <!-- Weekday -->
+    <TextView
+        android:id="@+id/textWeekDay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Weekday: Monday"
+        android:textSize="16sp" />
+
+    <!-- Start Time -->
+    <TextView
+        android:id="@+id/textStartTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start Time: 09:00:00"
+        android:textSize="14sp" />
+
+    <!-- End Time -->
+    <TextView
+        android:id="@+id/textEndTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="End Time: 11:00:00"
+        android:textSize="14sp" />
+
+    <!-- Tutors -->
+    <TextView
+        android:id="@+id/textTutors"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tutors: Skarpetis M."
+        android:textSize="14sp" />
+
+    <!-- Room -->
+    <TextView
+        android:id="@+id/textRoom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Room: B116"
+        android:textSize="14sp" />
+
+    <!-- Class Title -->
+    <TextView
+        android:id="@+id/textClassTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Class Title: Biomhxanikos elegxos"
+        android:textSize="14sp" />
+
+    <!-- Semester -->
+    <TextView
+        android:id="@+id/textSemester"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Semester: First"
+        android:textSize="14sp" />
+
+    <!-- Academic Year -->
+    <TextView
+        android:id="@+id/textAcademicYear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Academic Year: 2023"
+        android:textSize="14sp" />
+
+    <!-- Class Code -->
+    <TextView
+        android:id="@+id/textClassCode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Class Code: 17.16"
+        android:textSize="14sp" />
+</LinearLayout>
