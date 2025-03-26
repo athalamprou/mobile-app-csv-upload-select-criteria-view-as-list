@@ -53,7 +53,7 @@ class ReadfromDisk : AppCompatActivity() {
 
         // Initialize Retrofit
         val retrofit = Retrofit.Builder()
-            .baseUrl("http://46.246.220.117:5000/")// base URL tou server
+            .baseUrl("http://10.0.2.2:5000/")// base URL tou server
             .addConverterFactory(GsonConverterFactory.create())
             .build()
 
