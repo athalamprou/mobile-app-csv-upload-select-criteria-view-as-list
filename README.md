@@ -23,9 +23,9 @@ E. Screen/activity for displaying database data on the mobile screen, with the a
 - Node.js
 - MySQL
 
-**File Locations:**
+**File Clarifications:**
 - Android Studio Project Name: ProjectPart1Attempt1
-- Server.js File located in folder: Server
+- Server.js Code: https://drive.google.com/file/d/1pCgewiR9Vz-OF89cpvBvFhJEllOO5ofy/view?usp=sharing
 - .csv File: https://gist.github.com/athalamprou/5f34aa7f00639596484707185c01fc29 (you can download the file)
 
 **Clarifications:**
