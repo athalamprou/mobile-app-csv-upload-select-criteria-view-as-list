@@ -1,6 +1,6 @@
 # mobile-app-csv-upload-select-criteria-view-as-list
 
-This mobile application was created using Android Studio and it's a collaboration between me and my good friend and collague Michalis Anagnostopoulos.
+This mobile application was created using Android Studio and it's a collaboration between me and my good friends and collagues Michalis Anagnostopoulos and Andreas Parros.
 
 **The application's functionalities are as follows:**
 
